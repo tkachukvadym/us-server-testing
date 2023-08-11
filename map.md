@@ -285,10 +285,10 @@
 
 ## OIDC
 
-- [ ] Create User.
-- [ ] Change Username Claim.
-- [ ] Allow OIDC login for admin users.
-- [ ] Sync Teams.
+- [x] Create User.
+- [x] Change Username Claim.
+- [x] Allow OIDC login for admin users.
+- [x] Sync Teams.
 
 ## Advanced Pack
 
